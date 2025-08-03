@@ -1,3 +1,5 @@
+npm install -g lighthouse
+
 ![unlighthouse - Scan your entire website with Google Lighthouse.](https://repository-images.githubusercontent.com/423079536/c88a81ee-43ec-40fc-a615-1d29bbeaaeb4)
 
 <h1>Unlighthouse</h1>
